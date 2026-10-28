@@ -1,0 +1,11 @@
+.disclosure-trigger {
+  width: 100%;
+  text-align: left;
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+.disclosure-panel {
+  padding: 1rem;
+  border-top: 1px solid #ddd;
+}
