@@ -1,5 +1,5 @@
 # Accessible Component Fundamentals
-
+![Header](./public/images/header.jpg)
 Frontend AI Engineering · Week 4 · FE-05
 
 Build three accessible interactive components from scratch using React and TypeScript, following the W3C ARIA Authoring Practices Guide.
